@@ -1,0 +1,4 @@
+import math
+diameter = float(input("Enter the diameter of the circle : "))
+Area = (math.pi/4)*diameter*diameter
+print("Area of the circle = ",Area)
